@@ -27,7 +27,7 @@ DEBUG = True
 # SECURITY WARNING: don't run with debug turned on in production!
 
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost','13.248.243.5','vijayanand.info', 'www.vijayanand.info','13.51.174.98']
 
 
 # Application definition
